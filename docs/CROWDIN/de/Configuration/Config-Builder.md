@@ -233,7 +233,7 @@ Wähle den gewünschten APS-Algorithmus für Therapie-Anpassungen. Die Details z
 * Closed Loop is only possible if you are in [Objective 6](Objectives-objective-6-starting-to-close-the-loop-with-low-glucose-suspend) or higher and use a supported pump.
 * Hinweis: Im Closed Loop wird ein Zielwert statt einem Zielbereich empfohlen (also z.B. 100 mg/dl statt 90 - 125 mg/dl bzw. 5,5 mmol statt 5,0 - 7,0 mmol).
 
-### Abschalten des Basalrate bei niedrigen Werten (Low Glucose Suspend - LGS)
+### Abschalten der Basalrate bei niedrigen Werten (Low Glucose Suspend - LGS)
 
 * maxIOB wird auf null gesetzt
 * Das bedeutet, wenn der Blutzuckerspiegel sinkt, kann AAPS die Basalrate automatisch reduzieren.
